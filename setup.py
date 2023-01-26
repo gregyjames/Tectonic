@@ -11,7 +11,7 @@ setup(
     version='0.1.0',
     description='Real Estate modeling and evaluation.',
     long_description=long_description,
-    long_description_content_type='text/markdown'
+    long_description_content_type='text/markdown',
     author='Greg James',
     license='MIT',
     install_requires=[],
