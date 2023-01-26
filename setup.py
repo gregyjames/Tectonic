@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
     name='pytectonic',
     packages=find_packages(include=['tectonic']),
-    version='0.1.0',
+    version='0.3.0',
     description='Real Estate modeling and evaluation.',
     long_description_content_type='text/markdown',
     long_description=long_description,

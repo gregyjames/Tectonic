@@ -5,3 +5,18 @@
 
 # Tectonic
 A python library for real estate modeling and evaluation
+
+## Helpers
+1. NOI
+2. cap_rate
+3. price_to_rent_ratio
+4. cash_on_return
+5. GRM
+
+## Valuation Models
+1. discounted_NOI
+2. band_of_investing
+3. price_per_squarefoot
+
+## Payments
+1. Mortgage
