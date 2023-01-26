@@ -14,7 +14,7 @@ setup(
     long_description=long_description,
     author='Greg James',
     license='MIT',
-    install_requires=[],
+    install_requires=['numpy==1.24.1'],
     setup_requires=['pytest-runner'],
     tests_require=['pytest==7.2.1'],
     test_suite='tests',

@@ -1,4 +1,4 @@
-from tectonic import noi
+from tectonic import Helpers
 
 def test_noi():
-    assert noi.NOI(120000, 80000) == 40000
+    assert Helpers.NOI(120000, 80000) == 40000
