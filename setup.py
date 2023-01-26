@@ -6,7 +6,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(
-    name='tectonic',
+    name='pytectonic',
     packages=find_packages(include=['tectonic']),
     version='0.1.0',
     description='Real Estate modeling and evaluation.',
